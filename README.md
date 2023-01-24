@@ -4,9 +4,10 @@
 
 Utilizing the provided solution/project, add the following items:
 
-Task 1. Create an API Endpoint that takes in 2 parameters (string FirstName and string phoneNumber) and saves them to the data store of your choice.
+Task 1. Create an API Endpoint that takes in 3 parameters (string firstName, string lastName and string phoneNumber) and saves them to the data store of your choice.
 
-Task 2. Create another API Endpoint that takes in a file (Example of the file below ) logs each line and then returns the contents back
+Task 2. Create another API Endpoint that takes in a file (File task2-file.csv is included in the solution) logs each line and then returns the contents back
+
 
 ### If Time Permits
 
