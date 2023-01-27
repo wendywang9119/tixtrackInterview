@@ -4,7 +4,7 @@
 
 Utilizing the provided solution/project, add the following items:
 
-Task 1. Create an API Endpoint that takes in 3 parameters (string firstName, string lastName and string phoneNumber) and saves them to the data store of your choice.
+Task 1. Create an API Endpoint that takes in 3 parameters (string FirstName, string LastName and string PhoneNumber) and saves them to the data store of your choice.
 
 Task 2. Create another API Endpoint that takes in a file (Example of the file below ) as the request.
 Then have the endpoint read that file, log each line and then return the contents of the file as the response.
